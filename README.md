@@ -2,9 +2,10 @@ Write a program that takes a sequence of parentheses , braces and square bracket
 sequence is balanced or not. If not make this balance and show the balanced string as output in
 both cases.
 
-
-Input                                                                        Output
-
-({}[)]                                                                      ({}[]()]
-
-{[()]}                                                                       {[()]}
+    ____________________________________________________________
+  |        Input                |            Output              |
+  | ____________________________|_______________________________ |   
+  |        ({}[)]               |           ({}[]()]             |
+  | ____________________________|_______________________________ |    
+  |        {[()]}               |            {[()]}              |
+  | ____________________________|_______________________________ |
